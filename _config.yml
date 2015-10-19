@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://cadebward.github.io
+title: Cade's Blog
+email: cadebward@gmail.com
+author: Cade Ward
+description: Thoughts on programming for the web.
+paginate: 3
+google_analytics: UA-69013306-1
